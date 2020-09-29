@@ -1,0 +1,273 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Samuel Longenbach
+    tagline: #Junior Data Scientist
+    avatar: PP.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    location: Burlington Area, VT
+    email: sam.henry.long@gmail.com
+    phone: 
+    website: 
+    linkedin: sam-longenbach
+    github: longenbach
+    kaggle: samuellongenbach
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: 
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    
+    languages:
+      - idiom: English
+        level: Native
+
+      - idiom: Norwegian
+        level: Basic
+
+    interests:
+      - item: Coach cross country skiing at my local ski club, [Mansfield Nordic Club](https://www.mansfieldnordic.org/).
+        link: 
+
+      - item: Competed in division III cross country & track at St. Olaf College.
+        link: https://www.tfrrs.org/athletes/4534028/St_Olaf/Sam__Longenbach.html
+
+career-profile:
+    title: Career Profile
+    summary: |
+      Junior Data Scientist with 2+ years of experience. Experienced in understanding business problems, applying supervised/unsupervised machine learning, and presenting to technical and non-technical audiences. Have industry experience in Natural Language Processing, Data Visualization, and Optimization. I am looking to develop data-driven solutions that are sustainable, profitable, and user friendly.  
+education:
+    - degree: MS in Data Science
+      university: Worcester Polytechnic Institute 
+      time: ​2018 - 2020
+      gpa: 3.6/4.0
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - degree: BA in Mathematics & Economics
+      university: St. Olaf College 
+      time: 2013 - 2017
+      gpa: 3.6/4.0
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
+experiences:
+    - role: Data Science Intern
+      time: Fall 2019
+      company: United Technologies (UTC), Hartford, Connecticut
+      details: |
+        UTC is an American multinational conglomerate. Our team collaborated with the human resource (HR) analytics team led by [Pankaj Prakash (Director, Data Science)](https://www.linkedin.com/in/pankaj-prakash-65780712/) on a system to track and classify HR requests from internal employees to reduce the workload of the HR department. 
+        - Preprocessed 350k unstructured text requests and extracted features for model building using Word2Vec.
+        - Implemented a topic modeling pipeline to categorize incoming HR questions from employees.
+        - Designed visual and diagnostic Tableau dashboards to track model classifications and trending HR questions.
+      tools: 
+        - item: Python
+          link: https://www.python.org/
+        - item: Scikit-learn
+          link: https://scikit-learn.org/stable/
+        - item: NLTK
+          link: https://www.nltk.org/
+        - item: Gensim
+          link: https://radimrehurek.com/gensim/auto_examples/index.html
+        - item: LDA
+          link: https://ai.stanford.edu/~ang/papers/nips01-lda.pdf
+        - item: Naive Bayes
+          link: https://scikit-learn.org/stable/modules/classes.html#module-sklearn.naive_bayes
+        - item: Word2Vec
+          link: https://jalammar.github.io/illustrated-word2vec/
+        - item: Tableau
+          link: https://www.tableau.com/
+        
+    - role: Data Science Intern
+      time: Summer 2019
+      company: Urban Sharing, Oslo, Norway
+      details: |
+        Urban Sharing is a Norwegian tech-startup that has developed a technology platform for forward-thinking mobility solutions. Worked on the data science team led by [Hans Martin Espegren](https://www.linkedin.com/in/hans-martin-espegren/) on developing more intelligent ways to rebalance their bike share systems. 
+        - Coded algorithms to calculate the optimal hourly distribution of bikes across the combined 500 station system.
+        - Developed statistical metrics to incentivize van drivers to rebalance bikes to stations to increase user trips.
+        - Presented research and progress with a live demo to the CEO, software, and hardware teams (~40 people).
+        - Created a real-time map to highlight stations that should be prioritized to aid van drivers in rebalancing efforts.
+      tools: 
+        - item: BigQuery
+          link: https://cloud.google.com/bigquery
+        - item: Colab
+          link: https://colab.research.google.com/notebooks/intro.ipynb
+        - item: Google OR-Tools
+          link: https://developers.google.com/optimization/examples
+        - item: Flask
+          link: https://flask.palletsprojects.com/en/1.1.x/
+        - item: D3.js
+          link: https://d3js.org/
+        - item: Mapbox
+          link: https://docs.mapbox.com/mapbox-gl-js/api/
+        - item: t-SNE
+          link: https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html
+        - item: Apache Airflow
+          link: https://airflow.apache.org/docs/stable/scheduler.html
+    
+    - role: Business Analyst 
+      time: 2017 - 2018
+      company: F​oresight Associates, Minneapolis, Minnesota
+      details: |
+        Foresight Associates is a management consultancy led by [Vittorio Raimondi](https://www.linkedin.com/in/vittorioraimondi/). Was part of a small team providing consulting services for various marketing and insight teams of The Coca-Cola Company.
+        - Preformed regression analysis and ad-hoc analysis of consumption data to determine brand affinity. 
+        - Structured drink consumption data to be fed into system dynamic models to predict brand churn. 
+        - Managed file systems to ensure that Infotools drink surveys were up to date for 50+ global Coca-Cola markets.
+        - Delivered PowerPoint decks to clients that conveyed a clear story about key drivers of growth/loss for brands.
+      tools: 
+        - item: Excel
+          link: https://en.wikipedia.org/wiki/Microsoft_Excel
+        - item: R
+          link: https://www.r-project.org/
+        - item: Regression
+          link: https://www.statmethods.net/stats/regression.html
+        - item: PCA
+          link: https://www.rdocumentation.org/packages/stats/versions/3.6.2/topics/prcomp
+        - item: System Dynamics Modeling
+          link: https://www.systemdynamics.org/pushing-the-boundaries-of-marketing-roi-at-coca-cola
+    
+    - role: Admissions Data Intern 
+      time: Spring 2017
+      company: S​t. Olaf College, Northfield, Minnesota
+      details: |
+        Worked under [Mattew Richey (Professor of Mathematics)](https://www.linkedin.com/in/matthew-richey-52466651/) on applying statistical learning algorithms on St. Olaf's admissions data to make better enrollment decisions.  
+        - Analyzed four years of acceptance and student interaction data to feed into enrollment prediction models.
+        - Explored the price sensitivity of merit/financial aid recipients and documented where further data is needed.
+      tools:
+        - item: RStudio
+          link: https://rstudio.com/products/rstudio/
+        - item: dplyr
+          link: https://dplyr.tidyverse.org/
+        - item: ggplot2
+          link: https://ggplot2.tidyverse.org/
+        - item: Xgboost
+          link: https://xgboost.readthedocs.io/en/latest/R-package/xgboostPresentation.html
+        - item: Random Forest
+          link: https://www.rdocumentation.org/packages/randomForest/versions/4.6-14/topics/randomForest
+        - item: Statistical Learning
+          link: http://faculty.marshall.usc.edu/gareth-james/ISL/
+
+research:
+    title: Research Experience
+    intro: 
+    pos:
+      - role: Research Associate 
+        time: 2018 - 2019
+        school: Worcester Polytechnic Institute
+        details: Collaborated with a group of professors and students on a [National Science Foundation funded project](https://www.wpi.edu/news/national-science-foundation-funds-research-wpi-aimed-disrupting-human-trafficking-networks) regarding disrupting human trafficking networks. Tasked with exploratory data analysis of international border control interception data to identify important variables that could be leveraged to inform operations research models.
+
+      - role: Research Fellow
+        time: 2016 - 2017
+        school: S​t. Olaf College
+        details: Provided statistical analysis (T-test & ANOVA) for a [faculty research project](https://wp.stolaf.edu/cir/projects-for-2016-17/#attachment_229) concerning the effects of alcohol on adult and adolescent mice. Created multiple view visualizations (ggplot2) to inspect the variance across experiment factors. Presented our research at the National Conference for Undergraduate Research in Memphis, TN.
+
+publications:
+    title: Research Experience
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
+    papers:
+      - title: 
+        link: "#"
+        authors: 
+        conference: 
+
+      - title: 
+        link: "#"
+        authors: 
+        conference: 
+
+      - title: 
+        link: "#"
+        authors: 
+        conference: 
+projects:
+    title: Projects &amp; Competitions
+    intro: 
+    assignments:
+      - title: Tweet Sentiment Extraction
+        link: https://www.kaggle.com/c/tweet-sentiment-extraction
+        tagline: "155th / 2227 ~ Top 7% in Kaggle competition, which involved fine-tuning state of the art NLP models (ex. BERT,
+                  RoBERTa) using [Huggingface's PyTorch library](https://huggingface.co/transformers/) to isolate the portion of the tweet that reflected the labeled sentiment."
+      - title: Maximum Variance Unfolding (MVU)
+        link: https://github.com/longenbach/Maximum-Variance-Unfolding/blob/master/Maximum_Variance_Unfolding.pdf
+        tagline: "MVU is a [non-linear dimensionality reduction algorithm](https://www.aaai.org/Papers/AAAI/2006/AAAI06-280.pdf). Delivered a report and a 50-minute class presentation on the mathematical derivation and pros/cons of this unsupervised learning algorithm when tested on toy datasets."
+      - title: Interactive Confusion Matrix
+        link: "https://github.com/longenbach/Tableau-Interactive-Confusion-Matrix"
+        tagline: "Designed an innovative visualization to inspect text misclassifications within a confusion matrix built in Tableau."
+      - title: Generative Adversarial Networks (GANs)
+        link: "https://github.com/longenbach/GANs_PyTorch"
+        tagline: "Wrote a version from scratch in Numpy and implemented a couple of GAN variations in Pytorch. Trained neural networks on GPUs using computing clusters with bash scripts in a terminal."
+
+skills:
+    title: Skills &amp; Proficiency
+    categories: 
+      - category: Code
+        toolset:
+        - name: Python
+          level: 90%
+
+        - name: R & RStudio
+          level: 80%
+
+        - name: Pytorch & Keras
+          level: 70%
+
+        - name: Javascript & Node.js
+          level: 40%
+
+        - name: HTML & CSS
+          level: 20%
+
+      - category: Database
+        toolset:
+        - name: MySQL
+          level: 80%
+
+        - name: Google Cloud & BigQuery
+          level: 70%
+
+        - name: AWS 
+          level: 50%
+
+      - category: Visualization
+        toolset:
+        - name: ggplot2
+          level: 90%
+
+        - name: Tableau
+          level: 80%
+
+        - name: D3.js
+          level: 70%
+      #- category: Presentation
+
+
+
+
+
+
+
+
+footer: >
+    Jekyll Theme <i class="fab fa-github"></i> by <a href="https://github.com/sharu725/online-cv" target="_blank" rel="nofollow">sharu725</a>

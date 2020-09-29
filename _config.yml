@@ -53,6 +53,7 @@ plugins:
 
 # Google Analytics
 google_analytics: UA-178398679-2
+google_tag: GTM-N49V688
 
 # Exclude from processing.
 # The following items will not be processed, by default.

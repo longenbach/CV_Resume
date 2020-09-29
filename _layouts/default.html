@@ -8,6 +8,11 @@
 {% include head.html %}
 
 <body>
+  <!-- Google Tag Manager -->
+  {% if site.google_analytics %}
+    {% include analytics_body.html %}
+  {% endif %}
+
   <div class="wrapper">
     {% include sidebar.html %}
 

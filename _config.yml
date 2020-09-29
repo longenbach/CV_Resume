@@ -52,9 +52,11 @@ plugins:
   - jekyll-feed
 
 # Google Analytics
-google_analytics: UA-178398679-2
+google_analytics: True
 google_tag: GTM-N49V688
 
+# https://www.youtube.com/watch?v=oAlZfaa3Uwc
+# https://www.dizzain.com/blog/tutorials/protect-google-analytics-data-hacked/
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

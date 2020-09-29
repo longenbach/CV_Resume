@@ -10,7 +10,7 @@ sidebar:
     name: Samuel Longenbach
     tagline: #Junior Data Scientist
     avatar: PP.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-    
+
     # Sidebar links
     location: Burlington Area, VT
     email: sam.henry.long@gmail.com
@@ -149,7 +149,7 @@ experiences:
       time: Spring 2017
       company: S​t. Olaf College, Northfield, Minnesota
       details: |
-        Worked under [Mattew Richey (Professor of Mathematics)](https://www.linkedin.com/in/matthew-richey-52466651/) on applying statistical learning algorithms on St. Olaf's admissions data to make better enrollment decisions.  
+        Worked under [Matthew Richey (Professor of Mathematics)](https://www.linkedin.com/in/matthew-richey-52466651/) on applying statistical learning algorithms on St. Olaf's admissions data to make better enrollment decisions.  
         - Analyzed four years of acceptance and student interaction data to feed into enrollment prediction models.
         - Explored the price sensitivity of merit/financial aid recipients and documented where further data is needed.
       tools:

@@ -10,8 +10,7 @@ sidebar:
     name: Samuel Longenbach
     tagline: #Junior Data Scientist
     avatar: PP.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-    meta: meta.png
-    
+
     # Sidebar links
     location: Burlington Area, VT
     email: sam.henry.long@gmail.com

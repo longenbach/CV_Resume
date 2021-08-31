@@ -35,7 +35,7 @@ sidebar:
         level: Basic
 
     interests:
-      - item: Coaching cross country skiing at the local ski club, [Mansfield Nordic Club](https://www.mansfieldnordic.org/).
+      - item: Coach cross country skiing at my local ski club, [Mansfield Nordic Club](https://www.mansfieldnordic.org/).
         link: 
 
       - item: Division III cross country & track at St. Olaf College.
@@ -44,7 +44,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Data Scientist with 3+ years of experience. Adept at understanding business problems, applying supervised/unsupervised machine learning, and presenting to technical and non-technical audiences. Have industry experience in Natural Language Processing, Data Visualization, and Optimization. Currently, on a team at Cox Automotive building data solutions for product teams.    
+      Data Scientist with 3+ years of experience. Adept at understanding business problems, applying supervised/ unsupervised machine learning, and presenting to technical and non-technical audiences. Have industry experience in Natural Language Processing, Data Visualization, and Optimization. Currently, on a team at Cox Automotive building data solutions for product teams.    
 education:
     - degree: MS in Data Science
       university: Worcester Polytechnic Institute
@@ -72,8 +72,8 @@ education:
           - Bullet point
 experiences:
     - role: Data Scientist II
-      time: Spring 2021 - present
-      company: Cox Automotive Inc., Burlington, Vermont / (remote)
+      time: Spring 2021 - Present
+      company: Cox Automotive Inc., Burlington, Vermont / [Remote]
       details: |
         Cox Automotive is a global automotive business that includes [Kelley Blue Book](https://www.kbb.com/), [Xtime](https://xtime.com/), [Autotrader.com](https://www.autotrader.com/), and [Manheim](https://www.manheim.com/). Currently, working as a Data Scientist building web applications, deploying APIs, and applying machine learning to solve problems for product teams at Cox.  
       tools: 

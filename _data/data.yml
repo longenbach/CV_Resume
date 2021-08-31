@@ -35,16 +35,16 @@ sidebar:
         level: Basic
 
     interests:
-      - item: Coach cross country skiing at my local ski club, [Mansfield Nordic Club](https://www.mansfieldnordic.org/).
+      - item: Coaching cross country skiing at the local ski club, [Mansfield Nordic Club](https://www.mansfieldnordic.org/).
         link: 
 
-      - item: Competed in division III cross country & track at St. Olaf College.
+      - item: Division III cross country & track at St. Olaf College.
         link: https://www.tfrrs.org/athletes/4534028/St_Olaf/Sam__Longenbach.html
 
 career-profile:
     title: Career Profile
     summary: |
-      Junior Data Scientist with 2+ years of experience. Experienced in understanding business problems, applying supervised/unsupervised machine learning, and presenting to technical and non-technical audiences. Have industry experience in Natural Language Processing, Data Visualization, and Optimization. I am looking to develop data-driven solutions that are sustainable, profitable, and user friendly.  
+      Data Scientist with 3+ years of experience. Adept at understanding business problems, applying supervised/unsupervised machine learning, and presenting to technical and non-technical audiences. Have industry experience in Natural Language Processing, Data Visualization, and Optimization. Currently, on a team at Cox Automotive building data solutions for product teams.    
 education:
     - degree: MS in Data Science
       university: Worcester Polytechnic Institute
@@ -71,6 +71,24 @@ education:
           - Bullet point
           - Bullet point
 experiences:
+    - role: Data Scientist II
+      time: Spring 2021 - present
+      company: Cox Automotive Inc., Burlington, Vermont / (remote)
+      details: |
+        Cox Automotive is a global automotive business that includes [Kelley Blue Book](https://www.kbb.com/), [Xtime](https://xtime.com/), [Autotrader.com](https://www.autotrader.com/), and [Manheim](https://www.manheim.com/). Currently, working as a Data Scientist building web applications, deploying APIs, and applying machine learning to solve problems for product teams at Cox.  
+      tools: 
+        - item: R Shiny
+          link: https://www.r-project.org/
+        - item: Plumber
+          link: https://www.rplumber.io/
+        - item: Python
+          link: https://www.python.org/
+        - item: Snowflake
+          link: https://www.snowflake.com/
+        - item: GitHub
+          link: https://github.com/enterprise
+        - item: AWS
+          link: https://aws.amazon.com/
     - role: Data Science Intern
       time: Fall 2019
       company: United Technologies (UTC), Hartford, Connecticut
